@@ -89,3 +89,4 @@ model.save('my_model.h5')
 #### 60000/60000 [==============================] - 6s 94us/step - loss: 0.2971 - acc: 0.8907
 #### 10000/10000 [==============================] - 0s 44us/step
 #### Test accuracy: 0.8777
+#### The lower the loss, the better a model (unless the model has over-fitted to the training data).
